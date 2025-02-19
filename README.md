@@ -21,7 +21,7 @@ Welcome to my **React Native To-Do App**! 🚀 This is a simple and intuitive ta
 ### 1️⃣ Clone the Repository
 
 ```bash
- git clone https://github.com/your-username/react-native-todo-app.git
+ git clone https://github.com/madhavsolanki/TodoApp-React-Native.git
  cd react-native-todo-app
 ```
 
