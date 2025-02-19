@@ -92,7 +92,7 @@ In the output, you'll find options to open the app in a:
 ## 📩 Contact Me
 
 📧 Email: madhav09solanki@gmail.com  
-💻 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/madhavsolanki21/)  
+💻 LinkedIn: [Connect on Linkedin](https://www.linkedin.com/in/madhavsolanki21/)  
 
 
 🚀 If you found this project helpful, feel free to give it a ⭐ on GitHub! Happy coding! 😊
